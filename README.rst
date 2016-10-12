@@ -26,7 +26,7 @@ Requirements
 Resources
 ---------
 
-Wokkel has a `home <https://wokkel.ik.nu/>`_ and `documentation <https://wokkel.ik.nu/documentation/`_.
+Wokkel has a `home <https://wokkel.ik.nu/>`_ and `documentation <https://wokkel.ik.nu/documentation/>`_.
 
 Besides the general Twisted resources, help is available on the
 `Twisted-Jabber mailing list <https://mailman.ik.nu/mailman/listinfo/twisted-jabber>`_.
